@@ -1,0 +1,28 @@
+name: Mickey Grant Filmmaker
+favicon: null
+layout_spectrum: 0.819725303677842
+typography_spectrum: 0.7762701255269349
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8344040878582746
+  lightness: 0.14117179298773408
+  saturation: 0.6321189308073372
+  rhythmicContrast: 0.5962793654762208
+purpose: []
